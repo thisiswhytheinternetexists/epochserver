@@ -1,6 +1,7 @@
-﻿using System;
+﻿using EpochServer.ServiceModel;
+using System;
 
-namespace EpochTime
+namespace EpochServer.ServiceInterface
 {
 	public class EpochService : ServiceStack.Service
 	{
